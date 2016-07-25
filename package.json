@@ -1,0 +1,19 @@
+{
+  "name": "skat",
+  "version": "1.0.0",
+  "description": "Skat points counter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkadiuszneuman/Skat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arkadiuszneuman/Skat/issues"
+  },
+  "homepage": "https://github.com/arkadiuszneuman/Skat#readme"
+}
